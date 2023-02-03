@@ -1,0 +1,10 @@
+.card {
+    box-shadow: 2px 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.container {
+    margin: 10px 100px;
+}
